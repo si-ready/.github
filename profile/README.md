@@ -29,4 +29,4 @@ Few repos. Only the gold.
 
 Some graduates keep their source in the project home where the work happens. They passed the same bar as everything above; the shelf records them here.
 
-- **stitch** — accountable agent state: one spec, four implementations held byte-identical by a shared conformance corpus, conservation bounds machine-proven in Lean. Canonical home: [patchwork-quilt/stitch](https://github.com/patchwork-quilt/stitch). Install:  · 
+- **stitch** — accountable agent state: one spec, four implementations held byte-identical by a shared conformance corpus, conservation bounds machine-proven in Lean. Canonical home: [patchwork-quilt/stitch](https://github.com/patchwork-quilt/stitch). Install: `pip install stitch-substrate` · `cargo add stitch-substrate`
