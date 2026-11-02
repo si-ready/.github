@@ -24,3 +24,9 @@ This is where they graduate to. Applications, toolkits, and SDKs that are ready 
 If you have to explain why it's ready, it's not ready. The work should speak.
 
 Few repos. Only the gold.
+
+## Graduated, living in their project homes
+
+Some graduates keep their source in the project home where the work happens. They passed the same bar as everything above; the shelf records them here.
+
+- **stitch** — accountable agent state: one spec, four implementations held byte-identical by a shared conformance corpus, conservation bounds machine-proven in Lean. Canonical home: [patchwork-quilt/stitch](https://github.com/patchwork-quilt/stitch). Install:  · 
